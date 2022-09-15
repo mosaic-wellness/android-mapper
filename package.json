@@ -1,0 +1,21 @@
+{
+  "name": "mappers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start:ts": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1187.0",
+    "axios": "^0.27.2",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.3",
+    "ts-node": "^10.8.0"
+  }
+}
